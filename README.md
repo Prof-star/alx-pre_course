@@ -1,2 +1,2 @@
 my first readme
-delte
+edit this
